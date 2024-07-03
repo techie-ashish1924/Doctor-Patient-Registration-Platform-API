@@ -406,6 +406,10 @@ Ensure your application is running locally to access the Swagger UI and interact
 
 list of suggested doctors
 
+--![image](https://github.com/techie-ashish1924/Doctor-Patient-Registration-Platform-API/assets/87715030/16db270d-5956-4356-a81b-57aedd5b6780)
+
+
+
 --![image](https://github.com/techie-ashish1924/Doctor-Patient-Registration-Platform-API/assets/87715030/1754774c-5c5e-4804-85b2-781066fdd06b)
 
 
