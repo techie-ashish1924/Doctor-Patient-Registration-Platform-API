@@ -60,9 +60,7 @@ Ensure your application is running locally to access the Swagger UI and interact
         }
         ```
     - Response: The saved doctor object or a validation error.
-    - ![image](https://github.com/techie-ashish1924/Doctor-Patient-Registration-Platform-API/assets/87715030/8a180413-23b4-4549-9783-e4a04c91d5e0)
-    ![image](https://github.com/techie-ashish1924/Doctor-Patient-Registration-Platform-API/assets/87715030/8b137cac-df25-4d7f-905f-e977702b8b9e)
-
+    
 
 - **Remove a doctor**
     ```http
