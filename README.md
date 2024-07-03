@@ -413,3 +413,9 @@ list of suggested doctors
 --![image](https://github.com/techie-ashish1924/Doctor-Patient-Registration-Platform-API/assets/87715030/1754774c-5c5e-4804-85b2-781066fdd06b)
 
 
+## Swagger
+
+
+![image](https://github.com/techie-ashish1924/Doctor-Patient-Registration-Platform-API/assets/87715030/35fc15c1-265b-4278-913e-3510a6106dbb)
+
+
